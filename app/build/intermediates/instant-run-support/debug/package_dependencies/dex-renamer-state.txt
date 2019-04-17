@@ -1,0 +1,7 @@
+#Tue Apr 16 16:58:55 CST 2019
+base.0=E\:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\commons-io-2.5_1b499e97ad64f63b4dd34c8541e6363def82c430
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_be12b2bfe61ce84719ca8adbb64a57e21a77c233\\classes.dex
+base.1=E\:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_be12b2bfe61ce84719ca8adbb64a57e21a77c233
+file.0=E\:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\commons-io-2.5_1b499e97ad64f63b4dd34c8541e6363def82c430\\classes.dex

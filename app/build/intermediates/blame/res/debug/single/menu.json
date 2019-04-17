@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\model.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\menu\\model.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

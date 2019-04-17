@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_load_model.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\dialog_load_model.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_item.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_menu_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_model.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo_item.xml",
+        "source": "E:\\AndroidProject\\android-3D-model-viewer-1.3.0\\android-3D-model-viewer-1.3.0\\app\\src\\main\\res\\layout\\activity_demo_item.xml"
+    }
+]
